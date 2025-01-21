@@ -1,0 +1,83 @@
+body {
+    margin:auto;
+}
+
+.container {
+    display: flex;
+    border: #4264a2 2px solid;
+    padding: 20px;
+    margin: 20px;
+}
+
+main {
+    width: 60%;
+    padding: 20px;
+    border: #a24242 2px solid;
+}
+
+article {
+    border: fuchsia 2px solid;
+    margin-bottom: 10px;
+}
+
+.thumImage {
+    margin-bottom: auto;
+}
+
+.menu-principal {
+    border: 2px solid red;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    background-color: aqua;
+}
+
+.int-container {
+    width: 100%;
+}
+
+.element {
+    font-size: 30px;
+    color: aliceblue;
+    background-color: #4264a2;
+    margin: 30px;
+
+}
+
+.chatbot {
+    position: fixed;
+    bottom: 5%;
+    right: 5%;
+    background-color: greenyellow;
+}
+
+.Menu {
+    border: 2px solid greenyellow;
+    width: 40%;
+    padding: 20px;
+}
+
+p {
+    border: #68fc23 2px solid;
+    line-height: 27px;
+    font-size: 14px;
+    margin: 20px;
+    padding: auto;
+}
+
+h2 {
+    border: #68fc23 2px solid;
+    margin: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
