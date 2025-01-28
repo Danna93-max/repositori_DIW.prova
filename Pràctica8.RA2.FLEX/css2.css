@@ -1,0 +1,70 @@
+.el {
+    background-color: rgba(255, 255, 255, .5);
+    border-radius: 50%;
+    display: block;
+    font-size: 1.5em;
+    line-height: 3em;
+    text-align: center;
+    width: 3em;
+}
+
+.container{
+    display: flex;
+    border: 1px solid black;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.verd {
+    background-color: green;
+    width: 25%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.toronja {
+    background-color: orange;
+    width: 25%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.violeta {
+    background-color: blueviolet;
+    width: 25%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.groc{
+    background-color: yellowgreen;
+    width: 25%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blau{
+    background-color: blue;
+    width: 25%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.amplada100 {
+    width: 100%;
+}
+
+.amplada50{
+    width: 50%;
+}

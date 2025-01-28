@@ -1,5 +1,5 @@
 body {
-    margin:auto;
+    margin: auto;
 }
 
 .container {
@@ -17,58 +17,64 @@ main {
 
 article {
     border: fuchsia 2px solid;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
-.thumImage {
-    margin-bottom: auto;
+.img-container {
+    width: 100%;
+}
+
+.container2{
+    border: 2px solid greenyellow;
+    margin-top: 20px;
 }
 
 .menu-principal {
     border: 2px solid red;
     padding: 20px;
     position: sticky;
-    top: 0;
+    top: 0px;
     background-color: aqua;
 }
 
-.int-container {
+.int-container img{
     width: 100%;
 }
 
 .element {
-    font-size: 30px;
-    color: aliceblue;
-    background-color: #4264a2;
-    margin: 30px;
+    background-color: cornflowerblue;
+    border: 2px solid cornflowerblue;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    justify-content: center;
 
 }
 
 .chatbot {
-    position: fixed;
-    bottom: 5%;
-    right: 5%;
+    border: 2px solid green;
+    border-radius: 30px;
     background-color: greenyellow;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
 }
 
 .Menu {
     border: 2px solid greenyellow;
-    width: 40%;
+    width: 37%;
     padding: 20px;
 }
 
-p {
-    border: #68fc23 2px solid;
-    line-height: 27px;
-    font-size: 14px;
-    margin: 20px;
-    padding: auto;
+h2 {
+    text-align: center;
+    color: white;
 }
 
-h2 {
-    border: #68fc23 2px solid;
-    margin: 20px;
-
+h1 {
+    color: aquamarine;
 }
 
 
